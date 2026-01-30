@@ -1,4 +1,4 @@
-```markdown
+
 # 📡 Military Pager Communication System  
 
 *A Cyber-Physical System (CPS) inspired military pager communication prototype using ESP32, LoRa (SX1278), and LCD interfaces.*
@@ -174,4 +174,3 @@ You may add an **MIT / Apache-2.0 license** depending on your preference.
 - Espressif Systems (ESP32)  
 - Semtech (LoRa Technology)  
 - IEEE CPS & IoT research community  
-```
